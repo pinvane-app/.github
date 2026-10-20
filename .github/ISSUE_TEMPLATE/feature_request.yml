@@ -1,0 +1,36 @@
+name: Feature request / 기능 요청
+description: Something Pinvane should do. / Pinvane이 했으면 하는 일.
+title: "[Request] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. We read every request; we cannot promise when or whether it will be built. / 모든 요청을 읽습니다. 언제 · 만들지는 약속드릴 수 없습니다.
+        **Please never attach drawings, project files, customer names or file paths.** / **도면 · 프로젝트 파일 · 고객 이름 · 파일 경로는 절대 올리지 마세요.**
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you need to do? / 무엇을 하고 싶나요?
+      description: The job, not the solution — for example "label wires for a 3-sheet harness". / 해결책보다 하려는 일을 — 예 「3장짜리 하네스 선에 라벨 붙이기」.
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: How do you do it today? / 지금은 어떻게 하나요?
+  - type: dropdown
+    id: who
+    attributes:
+      label: Who would use it? / 누가 쓰나요?
+      options:
+        - An AI through MCP or the command line / MCP · 명령줄의 AI
+        - A person in the editor / 편집기의 사람
+        - Both / 둘 다
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before you send / 보내기 전에
+      options:
+        - label: "I attached no drawings, project files, customer names, file paths, keys or passwords. / 도면 · 프로젝트 파일 · 고객 이름 · 파일 경로 · 키 · 비밀번호를 넣지 않았습니다."
+          required: true

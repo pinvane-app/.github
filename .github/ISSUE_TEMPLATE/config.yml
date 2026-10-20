@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem / 보안 문제
+    url: https://github.com/pinvane-app/.github/blob/main/SECURITY.md
+    about: Report privately by e-mail — please do not open a public issue. / 공개 이슈 말고 메일로 비공개 신고.
+  - name: Private matters (licence, payment) / 공개하고 싶지 않은 문의(사용권 · 결제)
+    url: https://pinvane.com/support/#contact
+    about: E-mail support@pinvane.com. / support@pinvane.com 으로 메일.
+  - name: User guide / 사용 방법
+    url: https://github.com/pinvane-app/pinvane#readme
+    about: Getting started, AI apps, command line, check list, FAQ. / 시작하기 · AI 앱 · 명령줄 · 확인 목록 · 자주 묻는 것.
