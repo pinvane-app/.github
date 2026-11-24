@@ -15,7 +15,7 @@ body:
     attributes:
       label: Pinvane version / Pinvane 판
       description: "Command / 명령: `pinvane version`"
-      placeholder: "0.2.0"
+      placeholder: "1.0.0"
     validations:
       required: true
   - type: input
@@ -35,7 +35,7 @@ body:
         - AI window (own key) / AI 창(내 키)
         - Command line / 명령줄
         - Export or printed output / 내보내기 · 출력물
-        - Install, licence or update / 설치 · 사용권 · 업데이트
+        - Install, license or update / 설치 · 사용권 · 업데이트
         - Other / 그 밖
     validations:
       required: true

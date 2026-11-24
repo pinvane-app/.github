@@ -16,7 +16,7 @@ We aim to confirm that we received your report within 24 hours, and will follow 
 
 ## Supported versions
 
-Pinvane is in pre-release testing. After the first release, security fixes go into the newest version; please update to it.
+Security fixes go into the newest version; please update to it. Versions and changes: [CHANGELOG](https://github.com/pinvane-app/pinvane/blob/main/CHANGELOG.md).
 
 ## Scope
 
@@ -36,4 +36,4 @@ Pinvane (the Windows app, its local editor and viewer, its local MCP server and 
 
 받았다는 답은 24 시간 안을 목표로 드리고, 확인한 뒤 같은 주소로 다시 연락드립니다. 그때까지 자세한 내용은 공개하지 말아 주세요.
 
-지원 판: 출시 전 시험 중입니다. 첫 출시 뒤에는 보안 고침이 가장 새 판에 들어갑니다 — 새 판으로 올려 주세요.
+지원 판: 보안 고침은 가장 새 판에 들어갑니다 — 새 판으로 올려 주세요. 판과 바뀐 내용: [CHANGELOG](https://github.com/pinvane-app/pinvane/blob/main/CHANGELOG.ko.md).

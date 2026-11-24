@@ -8,7 +8,7 @@ body:
       value: |
         The [user guide](https://github.com/pinvane-app/pinvane#readme) may already answer it. / [사용 방법](https://github.com/pinvane-app/pinvane/blob/main/README.ko.md)에 답이 있을 수 있습니다.
         **Please never attach drawings, project files, customer names or file paths.** / **도면 · 프로젝트 파일 · 고객 이름 · 파일 경로는 절대 올리지 마세요.**
-        Licence or payment questions: support@pinvane.com. / 사용권 · 결제는 support@pinvane.com 으로.
+        License or payment questions: support@pinvane.com. / 사용권 · 결제는 support@pinvane.com 으로.
   - type: textarea
     id: question
     attributes:
@@ -20,7 +20,7 @@ body:
     id: version
     attributes:
       label: Pinvane version (if installed) / Pinvane 판(설치했다면)
-      placeholder: "0.2.0"
+      placeholder: "1.0.0"
   - type: checkboxes
     id: privacy
     attributes:
