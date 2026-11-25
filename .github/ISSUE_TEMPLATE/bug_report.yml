@@ -15,7 +15,7 @@ body:
     attributes:
       label: Pinvane version / Pinvane 판
       description: "Command / 명령: `pinvane version`"
-      placeholder: "1.0.2"
+      placeholder: "1.0.3"
     validations:
       required: true
   - type: input
